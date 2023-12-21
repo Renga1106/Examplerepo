@@ -1,5 +1,5 @@
 a=9
 b=100
-print(a*b)
+print((a*b)+10)
 
 
